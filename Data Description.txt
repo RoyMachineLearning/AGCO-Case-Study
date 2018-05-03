@@ -1,0 +1,33 @@
+Available data for this exercise is in the Data.csv file and contains following variables:
+
+Establishment ID – Unique identifier for the establishment
+
+Email on file – An indicator describing whether licensed establishment’s email is available to AGCO (“Y” means it is available and “N” means it is not available)
+
+Postal First – first letter of an establishment’s postal code
+
+Club – an indicator for whether an establishment type is a Club (“1” means it is a Club, “0” means it is not a Club)
+
+Business Building - an indicator for whether an establishment type is a Business Building (“1” means it is a Business Building, “0” means it is not a Business Building)
+
+Small Hotel - an indicator for whether an establishment type is a Small Hotel (“1” means it is a Small Hotel, “0” means it is not a Small Hotel)
+
+Small Restaurant - an indicator for whether an establishment type is a Small Restaurant (“1” means it is a Small Restaurant, “0” means it is not a Small Restaurant)
+
+Large Hotel Chain - an indicator for whether an establishment type is a Large Hotel Chain (“1” means it is a Large Hotel Chain, “0” means it is not a Large Hotel Chain)
+
+Concert Facility - an indicator for whether an establishment type is a Concert Facility (“1” means it is a Concert Facility, “0” means it is not a Concert Facility)
+
+Stadium/Sports Facility - an indicator for whether an establishment type is a Stadium/Sports Facility (“1” means it is a Stadium/Sports Facility, “0” means it is not a Stadium/Sports Facility)
+
+Karaoke Bar - an indicator for whether an establishment type is a Karaoke Bar (“1” means it is a Karaoke Bar, “0” means it is not a Karaoke Bar)
+
+Large Restaurant Chain - an indicator for whether an establishment type is a Large Restaurant Chain (“1” means it is a Large Restaurant Chain, “0” means it is not a Large Restaurant Chain)
+
+Other - an indicator for whether an establishment type is other (“1” means it is Other, “0” means it is not Other)
+
+Days Since License Effective – number of days an establishment’s license has been active
+
+Previous Infraction – an indicator for whether an infraction has been found at the establishment during past inspections, excluding the most current inspection. (“1” means there is a history of past infractions, “0” means there was no history of past infractions)
+
+Current Infraction - an indicator for whether an infraction has been found at the establishment during the most current inspection. This is the outcome variable of interest mentioned in the Requirement section. (“1” means there was an infraction during the most current inspection, “0” means there was no infraction during the most current inspection)
